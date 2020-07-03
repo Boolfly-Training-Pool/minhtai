@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1, h2 {
+    font-weight: 300;
+    margin: 10px 0;
+}
+
+.image img {
+    width: 100%;
+}
+
+.content {
+    width: 100%;
+}
+
+.info {
+    width: 100%;
+    padding: 2px 10px;
+    background-color: #F7F7F7;
+    box-shadow: 0px 0px 10px #999;
+}
+
+.info ul {
+    list-style: none;
+}
